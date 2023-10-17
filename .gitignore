@@ -1,0 +1,5 @@
+.bin/
+editor_util/
+
+# Godot 4+ specific ignores
+.godot/
